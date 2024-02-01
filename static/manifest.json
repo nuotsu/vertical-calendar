@@ -1,16 +1,16 @@
 {
-	"short_name": "VertiCal",
 	"name": "VertiCal",
+	"short_name": "VertiCal",
 	"description": "A simple vertical calendar",
+	"start_url": ".",
+	"display": "standalone",
 	"icons": [
 		{
-			"src": "/images/icon-512.svg",
+			"src": "images/icon-512.svg",
 			"type": "image/png",
 			"sizes": "512x512"
 		}
 	],
-	"start_url": "/",
-	"display": "standalone",
 	"background_color": "#000000",
 	"theme_color": "#000000"
 }

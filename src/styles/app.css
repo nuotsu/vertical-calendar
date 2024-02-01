@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+	::selection {
+		@apply bg-black text-white dark:bg-white dark:text-black;
+	}
+}
