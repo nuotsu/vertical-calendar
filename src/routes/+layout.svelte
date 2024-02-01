@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Vertical Calendar</title>
+	<title>VertiCal</title>
 	<meta name="description" content="Just a non-standard vertical calendar." />
 </svelte:head>
 
