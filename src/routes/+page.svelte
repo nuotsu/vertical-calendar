@@ -1,4 +1,4 @@
-<article class="text-center grid items-start max-w-max mx-auto">
+<article class="text-center grid items-start max-w-max mx-auto max-sm:text-sm">
 	<aside class="freeze left-0 z-[1]">
 		<h1 class="freeze top-0 left-0">
 			<strong>{String(year).slice(2, 4)}</strong>

@@ -6,4 +6,12 @@
 	::selection {
 		@apply bg-black text-white dark:bg-white dark:text-black;
 	}
+
+	html {
+		scrollbar-width: none;
+
+		&::-webkit-scrollbar {
+			display: none;
+		}
+	}
 }
